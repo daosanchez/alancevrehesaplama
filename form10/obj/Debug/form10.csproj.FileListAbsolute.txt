@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form10\form10\bin\Debug\form10.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form10\form10\bin\Debug\form10.exe
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form10\form10\bin\Debug\form10.pdb
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form10\form10\obj\Debug\form10.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form10\form10\obj\Debug\form10.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form10\form10\obj\Debug\form10.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form10\form10\obj\Debug\form10.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form10\form10\obj\Debug\form10.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form10\form10\obj\Debug\form10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form10\form10\obj\Debug\form10.exe
+C:\Users\User\Desktop\KORUMASIZ\ravzanurmuslu1313\form10\form10\obj\Debug\form10.pdb
